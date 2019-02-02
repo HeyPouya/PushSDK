@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "483342101746",
+    "firebase_url": "https://pushsdk-e9b5a.firebaseio.com",
+    "project_id": "pushsdk-e9b5a",
+    "storage_bucket": "pushsdk-e9b5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483342101746:android:c6640fd4d47c8b6e",
+        "android_client_info": {
+          "package_name": "ir.push.sdk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483342101746-2aikd1iosfnsr25qgt2820tqdp6vvbo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0pZrathgwq-q3k048vEiQlKEqfkvHVGM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

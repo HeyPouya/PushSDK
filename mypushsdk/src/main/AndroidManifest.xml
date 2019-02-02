@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="ir.push.mypushsdk">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.SEND_SMS"/>
+    <application>
+        <activity
+                android:excludeFromRecents="true"
+                android:name=".MyDialog"
+                android:theme="@style/Dialog"/>
+    </application>
+</manifest>
